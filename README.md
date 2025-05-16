@@ -2,6 +2,8 @@
 
 ## Telegram enumerator
 
+Enumerates existence of Telegram Desktop `tdata` folders across user profiles via SMB, useful for identifying potential session data without triggering excessive noise.
+
 Usage: 
 
 ```
